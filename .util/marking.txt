@@ -3,17 +3,17 @@ platform linux -- Python 3.14.3, pytest-9.0.2, pluggy-1.6.0
 rootdir: /home/runner/work/Assessment-Backend-Week-2/Assessment-Backend-Week-2/marine_experiments
 collected 73 items
 
-test_queries.py ......................F..F..F..F                         [ 43%]
-test_routes.py FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 [100%]
+test_queries.py ................................                         [ 43%]
+test_routes.py ...............................FFFFFFFFFF                 [100%]
 
-======================== 45 failed, 28 passed in 10.23s ========================
+======================== 10 failed, 63 passed in 10.30s ========================
 ************* Module api
+marine_experiments/api.py:50:0: C0325: Unnecessary parens after 'not' keyword (superfluous-parens)
 marine_experiments/api.py:3:0: W0611: Unused datetime imported from datetime (unused-import)
-marine_experiments/api.py:5:0: W0611: Unused request imported from flask (unused-import)
 marine_experiments/api.py:6:0: W0611: Unused sql imported from psycopg2 (unused-import)
 ************* Module database_functions
 marine_experiments/database_functions.py:16:0: C0304: Final newline missing (missing-final-newline)
 
 ------------------------------------------------------------------
-Your code has been rated at 7.89/10 (previous run: 7.89/10, +0.00)
+Your code has been rated at 9.30/10 (previous run: 9.30/10, +0.00)
 
