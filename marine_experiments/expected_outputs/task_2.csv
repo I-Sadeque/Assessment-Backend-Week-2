@@ -1,0 +1,11 @@
+experiment_id,subject_id,species,experiment_date,experiment_type,score
+10,5,Tiger shark,2024-02-12,obedience,60.00%
+9,4,Orca,2024-02-10,aggression,100.00%
+7,2,Orca,2024-02-08,obedience,80.00%
+8,2,Orca,2024-02-06,aggression,10.00%
+6,4,Orca,2024-02-02,obedience,20.00%
+1,1,Tuna,2024-01-06,intelligence,23.33%
+5,5,Tiger shark,2024-01-06,intelligence,56.67%
+4,4,Orca,2024-01-06,intelligence,96.67%
+3,3,Tiger shark,2024-01-06,intelligence,86.67%
+2,2,Orca,2024-01-06,intelligence,90.00%
