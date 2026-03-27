@@ -3,10 +3,10 @@ platform linux -- Python 3.14.3, pytest-9.0.2, pluggy-1.6.0
 rootdir: /home/runner/work/Assessment-Backend-Week-2/Assessment-Backend-Week-2/marine_experiments
 collected 73 items
 
-test_queries.py .FFFF.FFFF.FFFF.FFFFFFFFFFFFFFFF                         [ 43%]
+test_queries.py ...FF...FF...FF...FFFFFFFFFFFFFF                         [ 43%]
 test_routes.py FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 [100%]
 
-======================== 69 failed, 4 passed in 10.13s =========================
+======================== 61 failed, 12 passed in 9.61s =========================
 ************* Module api
 marine_experiments/api.py:3:0: W0611: Unused datetime imported from datetime (unused-import)
 marine_experiments/api.py:5:0: W0611: Unused request imported from flask (unused-import)
